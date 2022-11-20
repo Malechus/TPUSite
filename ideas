@@ -1,0 +1,19 @@
+Features:
+	Weekly/biweekly blog style posts
+	Forum space (SFW and NSFW)
+		Automated forum moderation
+			Key word monitoring
+	Resource archive
+	Group feed on site, so that site is a "one stop shop"
+		Sort by new and popular?
+	LFP/Dating area?
+
+Security
+	Facebook auth required so that activity is linked to FB group users and users can be removed from both simultaneously
+	Facebook auth/user info is private, so that users can post with greater anonymity 
+
+Design Philosophy
+	Flat UI
+	"Hero" style navigation
+	Site in sections that separates content by type
+	Sections navigable by page (over time) where appropriate
